@@ -1,1 +1,1 @@
-# HandwrittenDigitAI
+# Hand written Digit AI
