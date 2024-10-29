@@ -1,11 +1,12 @@
-# El Yazısı Rakam Tanıma Projesi
+# Handwritten Digit Recognition Project
 
-Bu proje, **MNIST** veri setini kullanarak el yazısı ile yazılmış rakamları tanıyan bir model geliştirmektedir. Amaç, 0 ile 9 arasındaki rakamları sınıflandırmaktır.
+This project aims to develop a model that recognizes handwritten digits using the MNIST dataset. The goal is to classify digits between 0 and 9.
 
-## Özellikler
-- **Veri Seti**: MNIST (28x28 piksel gri tonlamalı resimler)
-- **Model**: Lojistik Regresyon (Logistic Regression)
-- **Kullanılan Kütüphaneler**: Pandas, Matplotlib, Scikit-learn (StandardScaler, PCA, LogisticRegression)
-- **Eğitim**: 60,000 eğitim verisi
-- **Test**: 10,000 test verisiyle doğrulama
+## Features
+
+- Dataset: MNIST (28x28 pixel grayscale images)
+- Model: Logistic Regression
+- Libraries Used: Pandas, Matplotlib, Scikit-learn (StandardScaler, PCA, LogisticRegression)
+- Training: 60,000 training samples
+- Testing: Validation with 10,000 test samples
 
