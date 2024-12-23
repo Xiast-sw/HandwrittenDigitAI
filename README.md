@@ -10,3 +10,5 @@ This project aims to develop a model that recognizes handwritten digits using th
 - Training: 60,000 training samples
 - Testing: Validation with 10,000 test samples
 
+## License
+This project is licensed under the MIT License.
