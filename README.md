@@ -12,3 +12,6 @@ This project aims to develop a model that recognizes handwritten digits using th
 
 ## License
 This project is licensed under the MIT License.
+
+## Contact
+If you have any questions, please reach out via a.bugraaytar@gmail.com
